@@ -1,0 +1,130 @@
+<mxfile host="65bd71144e">
+    <diagram id="viVCM4jJ1JK3uktmwt-A" name="ページ-1">
+        <mxGraphModel dx="712" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="「勉強が苦手な人のための効率よく楽しく頭に入れていくためのクイズアプリ」" vertex="1">
+                    <mxGeometry height="30" width="200" x="230" y="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="利用者" vertex="1">
+                    <mxGeometry height="40" width="70" x="210" y="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="準備する" vertex="1">
+                    <mxGeometry height="60" width="120" x="200" y="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="学習する" vertex="1">
+                    <mxGeometry height="60" width="120" x="480" y="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="復習する" vertex="1">
+                    <mxGeometry height="60" width="120" x="900" y="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="会員登録する" vertex="1">
+                    <mxGeometry height="60" width="120" x="200" y="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="アプリに必要事項を入力する" vertex="1">
+                    <mxGeometry height="60" width="120" x="200" y="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="科目や難易度を決める" vertex="1">
+                    <mxGeometry height="60" width="120" x="200" y="510" as="geometry"/>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="ログインする" vertex="1">
+                    <mxGeometry height="60" width="120" x="340" y="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="問題を見る" vertex="1">
+                    <mxGeometry height="60" width="120" x="480" y="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="回答欄に答えを記入する" vertex="1">
+                    <mxGeometry height="60" width="120" x="760" y="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="タイマー機能" vertex="1">
+                    <mxGeometry height="60" width="120" x="480" y="505" as="geometry"/>
+                </mxCell>
+                <mxCell id="IRa8tSarq1As6VYJIUJC-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="キャラクターによる応援機能" vertex="1">
+                    <mxGeometry height="60" width="120" x="480" y="677" as="geometry"/>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="どこで間違えたかを見直す" vertex="1">
+                    <mxGeometry height="60" width="120" x="900" y="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="答えを入力する" vertex="1">
+                    <mxGeometry height="60" width="120" x="620" y="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="正解、不正解を表示" vertex="1">
+                    <mxGeometry height="60" width="120" x="900" y="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="間違えた問題を復習" vertex="1">
+                    <mxGeometry height="60" width="120" x="1181" y="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="正答数、正答率表示" vertex="1">
+                    <mxGeometry height="60" width="120" x="1040" y="505" as="geometry"/>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="回答欄に答えを記入する" vertex="1">
+                    <mxGeometry height="60" width="120" x="1181" y="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="選択肢を選ぶ" vertex="1">
+                    <mxGeometry height="60" width="120" x="1181" y="505" as="geometry"/>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="解説を読む" vertex="1">
+                    <mxGeometry height="60" width="120" x="900" y="505" as="geometry"/>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="アンケートを記入" vertex="1">
+                    <mxGeometry height="60" width="120" x="340" y="510" as="geometry"/>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="レベル機能表示" vertex="1">
+                    <mxGeometry height="60" width="120" x="900" y="680" as="geometry"/>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="連続ログイン数表示" vertex="1">
+                    <mxGeometry height="60" width="120" x="200" y="677" as="geometry"/>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="苦手分野の表示" vertex="1">
+                    <mxGeometry height="60" width="120" x="1040" y="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="学習リマインダー" vertex="1">
+                    <mxGeometry height="60" width="120" x="200" y="600" as="geometry"/>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-35" edge="1" parent="1" style="shape=link;html=1;" value="">
+                    <mxGeometry relative="1" width="100" as="geometry">
+                        <mxPoint x="60" y="410" as="sourcePoint"/>
+                        <mxPoint x="1471.7544395045231" y="410" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-36" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="70" y="490" as="sourcePoint"/>
+                        <mxPoint x="1485.26" y="490" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-37" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="70" y="580" as="sourcePoint"/>
+                        <mxPoint x="1485.26" y="580" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-38" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="ウォーキングスケルトン" vertex="1">
+                    <mxGeometry height="60" width="120" x="60" y="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-39" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="タスクリスト" vertex="1">
+                    <mxGeometry height="60" width="120" x="60" y="510" as="geometry"/>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-40" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="通知機能" vertex="1">
+                    <mxGeometry height="60" width="120" x="60" y="600" as="geometry"/>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-41" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="70" y="668" as="sourcePoint"/>
+                        <mxPoint x="1485.26" y="668" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="ヒントを状況に応じて表示" vertex="1">
+                    <mxGeometry height="60" width="120" x="620" y="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="学習記録を表示" vertex="1">
+                    <mxGeometry height="60" width="120" x="1330" y="680" as="geometry"/>
+                </mxCell>
+                <mxCell id="BWiL2FDnQNnq0mD_eTog-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="スタートボタンを押して問題を表示する" vertex="1">
+                    <mxGeometry height="60" width="120" x="480" y="418" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
